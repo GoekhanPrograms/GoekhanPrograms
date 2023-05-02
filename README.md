@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @GoekhanPrograms
+- 👀 I’m interested in Programming various and diverse things that can easy my life :D
+- 🌱 I’m currently learning Software Engineering
