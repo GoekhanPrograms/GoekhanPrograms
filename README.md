@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @GoekhanPrograms
 - 👀 I’m interested in programming various and diverse things that can ease my life :D
-- 🌱 I’m currently learning Software Technology
+- 🌱 I’m currently studying Software Engineering
