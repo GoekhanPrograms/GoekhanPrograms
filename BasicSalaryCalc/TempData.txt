@@ -1,2 +1,0 @@
-Stunden: 30, Stundenlohn: 20,  Überstunden: 0
-Nettolohn: 390, Bruttolohn: 600
